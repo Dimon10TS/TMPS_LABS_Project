@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="laborator_1_TMPS:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>laborator_1_TMPS</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="laborator_1_TMPS-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="laborator_1_TMPS:war exploded" />
+    </root>
+  </artifact>
+</component>
